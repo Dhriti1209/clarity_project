@@ -162,6 +162,8 @@ const result = simnet.callPublicFn(
 ## 🏗️ Smart Contract Functions
 contract identifier :STGK3TPN8WBGTM4G04798T306DM4X3JYHPS3H8KA.stream
 contract screenshot :
+<img width="1908" height="881" alt="image" src="https://github.com/user-attachments/assets/6f1fd0b5-80c3-4382-a656-659035590808" />
+
 
 ### Public Functions
 
